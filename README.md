@@ -20,10 +20,7 @@
 
 ---
 
-# 🎨 Tech Stack  
-## ⭐ Emoji + Stylish Layout + Badges Included
-
----
+# 🎨 Tech Stack 
 
 ## 🎯 **Frontend Development**
 <p align="left">
