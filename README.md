@@ -4,12 +4,6 @@
   🌐 Frontend Developer | ⚙️ Full-Stack Learner | 🤖 AI & Web3 Enthusiast  
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kashafnaz24&style=for-the-badge" />
-</p>
-
----
-
 ## 🌟 About Me  
 
 💫 I'm an AI & Web Development student at **GI-AIWMD** and **SMIT**  
@@ -65,7 +59,6 @@
 ---
 
 # 📌 Featured Projects  
-👉 Pin your best ones on your profile!
 
 - 🌐 **Full Websites**
 - ⚛️ **React + Next.js apps**
@@ -76,7 +69,7 @@
 
 ---
 
-# 📊 GitHub Stats  
+# 📊 GitHub Status  
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kashafnaz24&theme=default" />
