@@ -17,24 +17,24 @@
 
 ## 🛠️ Skills & Technologies  
 
-### **Frontend Development**
-- HTML5  
-- CSS3  
-- Tailwind CSS  
-- JavaScript (ES6+)  
-- TypeScript  
-- React.js  
-- Next.js  
+### 🔹 Frontend Development  
+- **HTML5**  
+- **CSS3**  
+- **Tailwind CSS**  
+- **JavaScript (ES6+)**  
+- **TypeScript**  
+- **React.js**  
+- **Next.js**  
 
-### **Backend Development**
-- Node.js  
+### 🔹 Backend Development  
+- **Node.js**  
+- **MongoDB**  
+- **Firebase (Auth, Firestore, Realtime DB)**  
 
-### **Currently Learning**
-- Python  
-- AI with OpenAI SDK  
-- Web3 & Blockchain Basics  
-
----
+### 🔹 Currently Learning  
+- **Python**  
+- **AI with OpenAI SDK**  
+- **Web3 & Blockchain Basics**  
 
 ## 📌 What I Build  
 - 🌐 Complete websites  
